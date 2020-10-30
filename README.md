@@ -14,5 +14,5 @@ The neuron is the basic unit of the brain, which connect among themselves formin
 ## [RNN model for self-sustained activity](Self-sustained_activity_network.ipynb)
 Neural networks represent information as particular states or activity patterns. A critical quesion in Neuroscience and Machine Learning is to understand how networks developed those representations and stable they are. This model ilustrates how a network with excitatory and inhibitory populations is able to generate a representation that is stable over time in the absence of stimulus drive and/or significant noise.
 
-## [Firing-rate model for decision making and working memory](Firing-rate_model_of_decision-making_and_working_memory.ipynb)
+## [Firing-rate model for decision making and working memory](Firing-rate_model_of decision-making_and_working_memory.ipynb)
 This models describes how populations of RNNs with excitatory and inhibitory sub-networks can describe cognitive processes such as decision making and working memory. This notion was previously explored in [Wong and Wang 2006](https://www.jneurosci.org/content/26/4/1314).
